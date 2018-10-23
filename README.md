@@ -1,2 +1,2 @@
 # Tribute-page
-FreeCodeCamp project - Responsive Web Design
+A simple responsive website for FreeCodeCamp challenge.
